@@ -119,14 +119,14 @@
     <repository>
         <id>releases</id>
         <name>releases</name>
-        <url>http://54.227.18.109:8081/nexus/content/repositories/releases/</url>
+        <url>http://54.213.185.12:8081/#admin/repository/repositories:maven-releases/</url>
     </repository>
-   <!-- <snapshotrepository>
+   < <snapshotrepository>
         <id>snapshots</id>
         <name>snapshots</name>
         <layout>default</layout>
-        <url>http://54.227.18.109:8081/nexus/content/repositories/releases/</url>
-    </snapshotrepository> -->
+        <url>http://54.213.185.12:8081/#admin/repository/repositories:maven-releases/</url>
+    </snapshotrepository>
 <!--</repositories> -->
 
 </distributionManagement>
